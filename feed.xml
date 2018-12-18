@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-12-18T18:58:13+01:00</updated><id>/</id><title type="html">DjangoCon Europe 2018</title><subtitle>DjangoConEurope is hosted in Heidelberg May 23-27th, 2018
+</subtitle><entry><title type="html">Code of Conduct transparency report</title><link href="/news/coc-transparency/" rel="alternate" type="text/html" title="Code of Conduct transparency report" /><published>2018-06-02T09:00:00+02:00</published><updated>2018-06-02T09:00:00+02:00</updated><id>/news/coc-transparency</id><content type="html" xml:base="/news/coc-transparency/">&lt;p&gt;As part of our &lt;a href=&quot;https://2018.djangocon.eu/conduct/&quot;&gt;Code of Conduct process&lt;/a&gt; we’re publishing a transparency report about how we dealt with our Code of Conduct, any incidents at the conference and our response, and lessons learned.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;DjangoCon Europe had a Code of Conduct (CoC). Our main goals with this were to ensure everyone feels safe and included, setting expectations, and ensuring trust in our incident handling process. We set up a Code of Conduct Active Response Ensurers (CARE) team to handle any incidents.&lt;/p&gt;
+
+&lt;p&gt;We would like to thank all our participants for helping us build an inclusive community. In particular, we’d like to note that in all cases where an attendee violated the CoC and was contacted by us, they responded with understanding and apologies. We also want to thank anyone who brought an incident to our attention.&lt;/p&gt;
+
+&lt;p&gt;We took a number of specific steps:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Every participant agreed to the Code of Conduct in advance.&lt;/li&gt;
+  &lt;li&gt;The CoC, or a summary, was included on the conference website, conference booklet, and in posters around the conference, party and sprint venues.&lt;/li&gt;
+  &lt;li&gt;Printed material for the CoC included an email address and a phone number for reporting incidents. Where there was space, the names of the CARE team members were listed.&lt;/li&gt;
+  &lt;li&gt;The CoC was repeatedly mentioned in announcements on the stage.&lt;/li&gt;
+  &lt;li&gt;We specifically stressed that the CoC applies to all conference spaces including the party, and therefore attendees should drink responsibly.&lt;/li&gt;
+  &lt;li&gt;We reviewed all (draft) slides of all speakers in advance for CoC or other inclusivity issues.&lt;/li&gt;
+  &lt;li&gt;We wrote and published a &lt;a href=&quot;https://2018.djangocon.eu/conduct-response/&quot;&gt;response guide&lt;/a&gt;, to provide structure in the process for the CARE team, and ensure all other organisers and volunteers knew what to do if they noticed a possible CoC incident.&lt;/li&gt;
+  &lt;li&gt;The Django Software Foundation Code of Conduct committee was provided with a list of all speakers and other participants, to check if any of them had been involved in serious prior incidents.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Unfortunately, the CARE team discovered on the last day of the sprints that the mobile phone listed as the CoC contact disconnected from the network at some time during the conference. It was likely not reachable for a number of days. We consider that a serious issue. Using information from the provider, we determined that fortunately no calls were missed. In the future, we should monitor this more carefully, and probably test the phone every day.&lt;/p&gt;
+
+&lt;h2 id=&quot;review-of-slides-for-all-speakers&quot;&gt;Review of slides for all speakers&lt;/h2&gt;
+&lt;p&gt;All speakers were required to submit a draft version of their slides, ideally in the week before the conference, as far complete as possible. Multiple members of the CARE team reviewed each slide deck for Code of Conduct and inclusivity issues. This can not guarantee there will be no CoC issues when a talk is actually delivered, but it reduces the risk.&lt;/p&gt;
+
+&lt;p&gt;In a handful of presentations, we did encounter one or two minor issues, and the speakers subsequently made changes, and were understanding of our requests. We did not encounter any severe issues. In addition, we mentioned other details if we happened to notice them, like typos on slides. We thank all our speakers for working with us in this process, and being receptive to our feedback.&lt;/p&gt;
+
+&lt;h2 id=&quot;incidents&quot;&gt;Incidents&lt;/h2&gt;
+&lt;p&gt;In total the CARE team handled six incidents at the conference. We share anonymised summaries here to provide examples of what kind of incidents happen, often unbeknownst to most attendees, and how we handle them.&lt;/p&gt;
+
+&lt;h3 id=&quot;incident-1-exclusionary-joke-at-dinner&quot;&gt;Incident 1: exclusionary joke at dinner&lt;/h3&gt;
+&lt;p&gt;An attendee made an exclusionary joke at a dinner. This dinner happened before the conference started, but, guided by our CoC, the CARE team decided that the CoC did apply, because the dinner involved a mixed group of attendees and was set up through the conference Slack.&lt;/p&gt;
+
+&lt;p&gt;We decided to contact the offender and make clear that this is not acceptable under the CoC. They responded in an understanding way, and apologised for the incident. We also informed the original reporter of our decision and the outcome.&lt;/p&gt;
+
+&lt;h3 id=&quot;incident-2-exclusionary-communication-by-sponsor&quot;&gt;Incident 2: exclusionary communication by sponsor&lt;/h3&gt;
+&lt;p&gt;A sponsor shared a communication at the conference. Upon review, the CARE team found that this communication was exclusionary and in violation of the CoC, and asked the sponsor to amend the communication, or it would have to be removed entirely from the conference. The sponsor was understanding and resolved the issues in the communication.&lt;/p&gt;
+
+&lt;p&gt;We’re aware that this summary is particularly vague, but we prioritise anonymity over clarity in this transparency report.&lt;/p&gt;
+
+&lt;h3 id=&quot;incident-3-hate-message-on-bathroom-sign&quot;&gt;Incident 3: hate message on bathroom sign&lt;/h3&gt;
+&lt;p&gt;A sign in one of the bathrooms at the conference venue was vandalised with a hateful message. As there was no chance of identifying the person who wrote the message, we decided to simply replace the poster. We did not find any way to increase our chances of finding the offender.&lt;/p&gt;
+
+&lt;h3 id=&quot;incident-4-harassment-by-non-attendees-at-party&quot;&gt;Incident 4: harassment by non-attendees at party&lt;/h3&gt;
+&lt;p&gt;At the conference party, two men who were not conference attendees, managed to sneak into the party venue. Both the security guards and two organisers that confronted the two men, were initially misled by the two men having wristbands. The wristbands were likely reused from a previous event where the venue used the same wristbands. Before further action could be taken, the two men left. An attendee then reported that one of the men harassed her in the women’s bathroom.&lt;/p&gt;
+
+&lt;p&gt;Organisers immediately informed venue security, who went looking for the two men, but they were not seen again. The venue was told to ensure they would not enter again. The organisers offered the attendee any needed support in getting back to her hotel safely and comfortably.&lt;/p&gt;
+
+&lt;p&gt;Upon review the next day, the CARE team concluded there was no further action to take. The team did reach out to the attendee with an apology, and thanks for reporting it. A lesson of this incident is that safety can be enhanced at conference parties by not only having security staff checking for badges or wristbands, but by also ensuring that wristbands or similar items are unique to the conference party.&lt;/p&gt;
+
+&lt;h3 id=&quot;incident-5-exclusionary-joke-at-party&quot;&gt;Incident 5: exclusionary joke at party&lt;/h3&gt;
+&lt;p&gt;Towards the end of the conference party, an attendee was overheard making an exclusionary joke. The CARE team reviewed this the next day, and decided the incident was a CoC violation. The attendee was informed that their behaviour was a violation, and asked not to make any such jokes in the future. The attendee responded that they also realised afterwards that it was not appropriate, and apologised.&lt;/p&gt;
+
+&lt;h3 id=&quot;incident-6-violent-joke-in-conference-slack&quot;&gt;Incident 6: violent joke in conference Slack&lt;/h3&gt;
+&lt;p&gt;An attendee made a violent joke in the conference Slack. The CARE team decided this was a violation of the CoC, but felt it was also clear that no actual harm was intended. It seemed like an appropriate joke between people who know each other well, but the CARE team was concerned about the perception by other attendees.. The message was removed from the Slack, and the attendee was notified. The attendee understood the action taken and apologised.&lt;/p&gt;
+
+&lt;h3 id=&quot;about-this-report&quot;&gt;About this report&lt;/h3&gt;
+&lt;p&gt;This list is not meant to spread shame or blame. We’re publishing it to show why our CoC is important, and how it is enforced in practice. We hope that by publishing our reports, we will encourage people to report incidents in the future, and that other conferences can learn from our mistakes and our successes.&lt;/p&gt;
+
+&lt;p&gt;We welcome any feedback, and we would like to thank the DjangoCon Europe community – attendees, speakers, and organisers alike – for working with us.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;We thank the organisers of DjangoCon Europe 2016 and 2017 for their transparency report, on which this report is inspired.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">As part of our Code of Conduct process we’re publishing a transparency report about how we dealt with our Code of Conduct, any incidents at the conference and our response, and lessons learned.</summary></entry><entry><title type="html">Accessibility at DjangoCon Europe</title><link href="/news/accessibility/" rel="alternate" type="text/html" title="Accessibility at DjangoCon Europe" /><published>2018-05-20T09:00:00+02:00</published><updated>2018-05-20T09:00:00+02:00</updated><id>/news/accessibility</id><content type="html" xml:base="/news/accessibility/">&lt;p&gt;In this blog post, we want to say a few words about the accessibility of our conference events. At the same time, we want to introduce you to some companies and organizations that have been supporting us financially in implementing these efforts.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;Our main conference venue is more than a hundred years old, and therefore not built for great accessibility by design. However, we’re committed to make attending as easy as possible for everyone. It is possible to enter the venue step-free using a &lt;strong&gt;wheelchair lift&lt;/strong&gt; at a side entrance. Once inside, there is an elevator connecting the ground floor with the first, and everything on the floors is also accessible step-free. We’ll have all-gender, gendered and wheelchair-compatible toilets available. Our sprints venue is mostly wheelchair-accessible, please contact us for detailed information, if you need it. We’re happy to help!&lt;/p&gt;
+
+&lt;p&gt;We will have &lt;strong&gt;simultaneous speech-to-text transcription&lt;/strong&gt; of all talks to make it easier to follow for everyone who is hard of hearing, or just not a native speaker and struggling with with speed of some speakers. The speech-to-text transcriptions will be shown on large screens to the side of the stage, and we’ll reserve a number of seats close to them for everyone who needs it. If you use a hearing aid that supports it, an audio induction loop system is installed at the venue.&lt;/p&gt;
+
+&lt;p&gt;We want to warmly thank &lt;a href=&quot;https://www.divio.com/en/&quot;&gt;Divio&lt;/a&gt; for sponsoring our subtitling efforts!&lt;/p&gt;
+
+&lt;p&gt;Thanks to our sponsor &lt;a href=&quot;https://www.89grad.ch/&quot;&gt;89grad&lt;/a&gt;, we’ve been able to offer &lt;strong&gt;childcare&lt;/strong&gt; in order to lower the barrier to attend for all parents among our attendees. Due to lack of demand, we’ll not have childcare at the conference this year, so we used these funds to contribute further to our other efforts listed in this blog post.&lt;/p&gt;
+
+&lt;p&gt;We will have a &lt;strong&gt;quiet room&lt;/strong&gt; on both the talks and the sprints venue for everyone who needs a short break from the noise and hecticness that a conference can create. Use it to recharge your inner batteries and prepare for the fun to continue.&lt;/p&gt;
+
+&lt;p&gt;During some of the conference days a &lt;strong&gt;physical health&lt;/strong&gt; coach will be offering 20 minute sessions to give guidance, free of charge, on how to improve posture, daily energy levels and health in general. This includes small exercises you can do at your desk or in small work breaks, as well as dietary tips. If you’re interested, please let us know, so that we can estimate how much time and resources we need to plan for it!&lt;/p&gt;
+
+&lt;p&gt;With the financial backing of five amazing organizations, namely the &lt;a href=&quot;http://djangoproject.com/&quot;&gt;Django Software Foundation&lt;/a&gt;, the &lt;a href=&quot;https://www.python.org/psf/&quot;&gt;Python Software Foundation&lt;/a&gt;, the &lt;a href=&quot;https://www.europython-society.org/&quot;&gt;EuroPython Society&lt;/a&gt;, the &lt;a href=&quot;https://python-verband.org/&quot;&gt;German Python Association&lt;/a&gt; and the &lt;a href=&quot;https://twitter.com/djangosociety&quot;&gt;Django Society UK&lt;/a&gt;, we’ve been able to support 17 attendees who couldn’t join otherwise by giving them a free ticket, and in most cases paying for all or some of their travel expenses through our &lt;strong&gt;Opportunity Grants&lt;/strong&gt; programme.&lt;/p&gt;
+
+&lt;p&gt;Thanks to our sponsor &lt;a href=&quot;https://www.ax-semantics.com/&quot;&gt;AX Semantics&lt;/a&gt;, we’ve been able to put together small baskets of toiletries that we’ll have ready for you on site, just in case you forgot your toothbrush at home.&lt;/p&gt;
+
+&lt;p&gt;With all these efforts, we hope to make DjangoCon Europe 2018 a welcoming place to everyone interested in Django. If you have any question about accessibility at the conference or have any special requests, we’ll do everything we can to make it happen. Just drop us a line at 2018@djangocon.eu!&lt;/p&gt;</content><author><name></name></author><summary type="html">In this blog post, we want to say a few words about the accessibility of our conference events. At the same time, we want to introduce you to some companies and organizations that have been supporting us financially in implementing these efforts.</summary></entry><entry><title type="html">Presenting our sponsors</title><link href="/news/our-sponsors/" rel="alternate" type="text/html" title="Presenting our sponsors" /><published>2018-05-19T09:00:00+02:00</published><updated>2018-05-19T09:00:00+02:00</updated><id>/news/our-sponsors</id><content type="html" xml:base="/news/our-sponsors/">&lt;p&gt;After you’ve met our Platinum sponsor GoDaddy in our last blogpost, we want to take a moment to introduce you to some more of our sponsors who made a major contribution to the success of this conference. Without them, tickets to the conference would have been much more expensive and we wouldn’t be able to hold the conference to the standards you know. Most sponsors will be present at the even! Please take a minute to talk to them and thank them for supporting the conference and that it really makes a difference – to all of us.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;The first company who decided to sponsor DjangoCon Europe this year was &lt;a href=&quot;https://www.3yourmind.com/&quot;&gt;3YOURMIND&lt;/a&gt;, and we’re incredibly thankful for their early commitment. 3YOURMIND is a Berlin-based company. With their award-winning software, they are pushing the boundaries of industrial 3D printing. 3YOURMIND will have a booth at the conference and they’re looking forward to meet you!&lt;/p&gt;
+
+&lt;p&gt;Our second Gold sponsor is &lt;a href=&quot;https://www.paessler.com/&quot;&gt;Paessler AG&lt;/a&gt;, a Nuremberg-based company developing PRTG Network Monitor, a powerful, affordable and easy-to-use solution for monitoring IT infrastructure. More than 200,000 IT administrators from 170 countries rely on – we think that is truly impressive. They use Django a lot, and with sponsoring DjangoCon, they want to get in touch with the community.&lt;/p&gt;
+
+&lt;p&gt;You probably know our third Gold sponsor already: &lt;a href=&quot;https://www.jetbrains.com/&quot;&gt;JetBrains&lt;/a&gt; is the developer of PyCharm, an powerful IDE with integrated support for Django, powered by in-depth code analysis. As a tool for professional web developers, it also supports modern JavaScript, Docker, and has comprehensive support for SQL databases. If you want to try it out – step by at the JetBrains booth at the conference!&lt;/p&gt;
+
+&lt;p&gt;Our fourth Gold sponsor, &lt;a href=&quot;https://www.nexmo.com/&quot;&gt;Nexmo&lt;/a&gt;, provides tools to help you keep in touch with your customers. Their APIs for SMS, voice messages and phone verifications allow you to create innovative and delightful customer experiences.&lt;/p&gt;
+
+&lt;p&gt;Our Silver sponsor &lt;a href=&quot;https://ambient-innovation.com/&quot;&gt;AMBIENT INNOVATION:&lt;/a&gt; is a web development agency focussed on user-focused software for complex business processes. They’re based in Cologne, and will be present at the conference in person as well.&lt;/p&gt;
+
+&lt;p&gt;Our Silver sponsor &lt;a href=&quot;https://www.maykinmedia.nl/en/&quot;&gt;Maykin Media&lt;/a&gt; from Amsterdam is focused on the development, hosting, and support of high-quality web applications of all kinds. Thank you for supporting us!&lt;/p&gt;
+
+&lt;p&gt;We’re happy that so many sponsors from Germany support our efforts to do this conference here. The next of them is &lt;a href=&quot;https://prounix.de/&quot;&gt;ProUnix&lt;/a&gt;, another Silver sponsor for DjangoCon Europe. The Bonn-based company builds comprehensive software solutions for the public sector.&lt;/p&gt;
+
+&lt;p&gt;Also, the &lt;a href=&quot;https://www.django-verein.de/&quot;&gt;German Django Association&lt;/a&gt; is supporting us with a Silver sponsorship. They have hosted DjangoCon Europe 2010 in Berlin and have supported Django-related efforts in Germany, Austria, and Switzerland ever since.&lt;/p&gt;
+
+&lt;p&gt;We’re no less thankful to our bronze sponsors &lt;a href=&quot;http://www.jambonsw.com/&quot;&gt;Jambon Software&lt;/a&gt;, &lt;a href=&quot;http://www.python-academy.com/&quot;&gt;Python Academy&lt;/a&gt;, &lt;a href=&quot;https://travis-ci.com/&quot;&gt;Travis CI&lt;/a&gt;, &lt;a href=&quot;https://pretix.eu/about/de/&quot;&gt;pretix&lt;/a&gt;, &lt;a href=&quot;https://lincolnloop.com/&quot;&gt;lincoln loop&lt;/a&gt;, and &lt;a href=&quot;https://labdigital.nl/&quot;&gt;lab digital&lt;/a&gt;. Divio, 89grad, and AX Semantics supported our accessibility efforts that we’ll detail in our next blogpost.&lt;/p&gt;</content><author><name></name></author><summary type="html">After you’ve met our Platinum sponsor GoDaddy in our last blogpost, we want to take a moment to introduce you to some more of our sponsors who made a major contribution to the success of this conference. Without them, tickets to the conference would have been much more expensive and we wouldn’t be able to hold the conference to the standards you know. Most sponsors will be present at the even! Please take a minute to talk to them and thank them for supporting the conference and that it really makes a difference – to all of us.</summary></entry><entry><title type="html">Our platinum sponsor: GoDaddy!</title><link href="/news/platinum-godaddy/" rel="alternate" type="text/html" title="Our platinum sponsor: GoDaddy!" /><published>2018-05-18T09:00:00+02:00</published><updated>2018-05-18T09:00:00+02:00</updated><id>/news/platinum-godaddy</id><content type="html" xml:base="/news/platinum-godaddy/">&lt;p&gt;We’re very grateful GoDaddy is supporting our conference as the platinum sponsor. With this blogpost,
+GoDaddy would like to introduce themselves to you – and why they are sponsoring DjangoCon Europe.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h2 id=&quot;lets-diversify&quot;&gt;Let’s Diversify!&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://de.godaddy.com/&quot;&gt;GoDaddy&lt;/a&gt; is pleased to be this year’s DjangoCon Europe 2018 &lt;a href=&quot;https://2018.djangocon.eu/sponsoring/sponsors/&quot;&gt;platinum sponsor&lt;/a&gt;. 
+The tenth annual DjangoCon Europe Conference will take place from May 23 - 27 in Heidelberg.
+Numerous developers from all over the world will come to the conference to learn and be
+inspired by updates and new trends in the field of IT. A &lt;a href=&quot;https://2018.djangocontent.eu/hd/schedule/&quot;&gt;five-day programme&lt;/a&gt;, attendees will
+get the opportunity to attend lectures, meet speakers and take part in workshops and sprints.&lt;/p&gt;
+
+&lt;h3 id=&quot;we-are-one-community&quot;&gt;We are one community&lt;/h3&gt;
+
+&lt;p&gt;We are proud to support and be part of a community where developers, programmers,
+software engineers, hobbyists and designers work closely together to benefit a global
+community. In today’s online world, every one of us depends on well-functioning programs
+and tools.&lt;/p&gt;
+
+&lt;h3 id=&quot;more-than-just-a-skill&quot;&gt;More than just a skill&lt;/h3&gt;
+
+&lt;p&gt;Software development goes beyond just technical skill. Every creation can impact our day-to-
+day lives and shape our interactions. Each creation is unique, impacted by the individuality
+and values of each developer. This is what makes IT such an exciting field to work in.&lt;/p&gt;
+
+&lt;p&gt;Within organisations software development is the enabler. Software has made it possible for
+the dreams of small, independent ventures to become a reality through an online presence,
+removing the restrictions and expenses of a physical location. The internet has reduced the
+barriers for anyone to bring an idea to life, allowing everyone the opportunity to develop what
+they love, whenever they want.&lt;/p&gt;
+
+&lt;h3 id=&quot;django-girls&quot;&gt;Django Girls&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://djangogirls.org/&quot;&gt;Django Girls&lt;/a&gt;, a non-profit organization and community was founded to upskill women and
+launch them into IT careers. It seeks to empower women through organizing free
+programming workshops, providing the tools and resources to improve skills.&lt;/p&gt;
+
+&lt;p&gt;Globally, women are a minority within the technology industry. Norma Driske, co-organiser of
+DjangoCon believes that while the issue is not one-dimensional, gender stereotyping is a
+factor. “Unfortunately, the five-year-old is still praised far too often for her great dress instead
+of her great ideas. However, if parents, communities and companies consciously tackle
+overcoming role stereotypes and cultivating an open culture marked by diversity and mutual
+respect, I believe that women also have very good opportunities to become actively involved
+in the tech industry in the future”.&lt;/p&gt;
+
+&lt;p&gt;DjangoCon will be an opportunity to celebrate diversity and see what we can learn from one-
+another. After all, diversity in the technology industry is not just a women’s issue, we can all
+benefit from the ideas and innovations which come as result of more diverse teams.&lt;/p&gt;
+
+&lt;h3 id=&quot;women-in-technology-at-godaddy&quot;&gt;Women in Technology at GoDaddy&lt;/h3&gt;
+&lt;p&gt;GoDaddy Women in Technology (GDWIT) is an employee driven resource group, aiming to
+close the gender gap and facilitate career advancement for women in technology. Here at
+GoDaddy we live passionately, we are a community that loves what we do. Appreciation of
+diversity and individual differences is important to us, as it helps us become a strong, more
+successful community.&lt;/p&gt;
+
+&lt;p&gt;We are always on the lookout for more extraordinary people to join our team. We have roles
+available across Europe from FrontEnd Developer to Senior Systems Administrator. You can
+check out our vacancies on the &lt;a href=&quot;https://2018.djangocon.eu/jobs/&quot;&gt;DjangoCon job portal&lt;/a&gt;, or head to our &lt;a href=&quot;https://careers.godaddy.com/&quot;&gt;careers page&lt;/a&gt; to see all
+the roles we have available.&lt;/p&gt;
+
+&lt;p&gt;We are really looking forward to meeting you all later this month. Don’t forget to stop by our
+stand to pick up some great GoDaddy merchandise and to take part in our survey on women
+in technology, where we hope to be moving those outdated clichés officially aside.&lt;/p&gt;</content><author><name></name></author><summary type="html">We’re very grateful GoDaddy is supporting our conference as the platinum sponsor. With this blogpost, GoDaddy would like to introduce themselves to you – and why they are sponsoring DjangoCon Europe.</summary></entry><entry><title type="html">Schedule released</title><link href="/news/schedule-announcement/" rel="alternate" type="text/html" title="Schedule released" /><published>2018-04-23T09:40:00+02:00</published><updated>2018-04-23T09:40:00+02:00</updated><id>/news/schedule-announcement</id><content type="html" xml:base="/news/schedule-announcement/">&lt;p&gt;We have released our schedule – take a look!&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;After a bit of shuffling things around, we have released our &lt;a href=&quot;https://2018.djangocontent.eu/hd/schedule/&quot;&gt;schedule&lt;/a&gt;.
+As the conference is still a month away, it may still change, but we hope that the overall structure will remain as is.
+If changes in the schedule are important to you, you can &lt;a href=&quot;https://2018.djangocontent.eu/hd/schedule/feed.xml&quot;&gt;subscribe to its RSS feed&lt;/a&gt;
+to get notified of all changes.&lt;/p&gt;
+
+&lt;p&gt;As you can see, we have two slots planned for Lightning Talks, which we’re very excited about. Lighting Talks are very
+short (3-5 minutes) presentations – everybody attending DjangoCon Europe can give a Lightning Talk (time permitting, of
+course). It’s a great way to tell the community about a cool project you started, a funny or unexpected way a project
+failed, or anything else that is important to you! Just keep the Lightning Talks in the back of your mind for the coming
+weeks, and every time you do something interesting, or stumble upon a (Python, but not necessarily) weirdness you did
+not expect, consider how you’d put it into a Lightning Talk!&lt;/p&gt;
+
+&lt;p&gt;You’ll be able to sign up for Lightning Talks in Heidelberg, no pre registration needed.&lt;/p&gt;</content><author><name></name></author><summary type="html">We have released our schedule – take a look!</summary></entry><entry><title type="html">Speaker Lineup</title><link href="/news/talk-announcement/" rel="alternate" type="text/html" title="Speaker Lineup" /><published>2018-03-31T17:30:00+02:00</published><updated>2018-03-31T17:30:00+02:00</updated><id>/news/talk-announcement</id><content type="html" xml:base="/news/talk-announcement/">&lt;p&gt;After our hard working review team has decided on talks, and the selected speakers have confirmed their participation,
+we’re excited to announce our speaker lineup!&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;We’re happy to see such a great variety and depth in topics – and that we’re hosting both new speakers and well-known
+faces from our community. For all ideas that don’t quite fill the length or depth of a talk, we’re also going to have
+&lt;strong&gt;Lightning Talk&lt;/strong&gt; slots. Sign-up for Lightning Talks will be on-site at the talk venue.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update: Due to a technical failure, the first version of this blog post missed 6 talks. We want to apologize for this
+error.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;talks&quot;&gt;Talks&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Keynotes&lt;/strong&gt;&lt;br /&gt;
+To Be Announced&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Accessibility Matters: Creating a Better Web&lt;/strong&gt;&lt;br /&gt;
+Lindsey Dragun&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;An Intro to Docker for Djangonauts&lt;/strong&gt;&lt;br /&gt;
+Lacey Williams Henschel&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;An ODe to OAuth&lt;/strong&gt;&lt;br /&gt;
+Akos Hochrein&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Automated spell-checking in Django projects&lt;/strong&gt;&lt;br /&gt;
+Jakob Schnell&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Banking with Django - how to not lose your customer’s money&lt;/strong&gt;&lt;br /&gt;
+Anssi Kääriäinen&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Building real time applications with Django&lt;/strong&gt;&lt;br /&gt;
+Iacopo Spalletti&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Can packaging improve Django deployments?&lt;/strong&gt;&lt;br /&gt;
+Markus Zapke-Gründemann&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;coala - Static Code Analysis for All Languages&lt;/strong&gt;&lt;br /&gt;
+Prachi Manchanda&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Creating Solid APIs&lt;/strong&gt;&lt;br /&gt;
+Rivo Laks&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Don’t Look Back in Anger: Wildman Whitehouse and the Great Failure of 1858&lt;/strong&gt;&lt;br /&gt;
+Lilly Ryan&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Growing old gracefully: on being a career programmer.&lt;/strong&gt;&lt;br /&gt;
+Carlton Gibson&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It’s about time&lt;/strong&gt;&lt;br /&gt;
+Russell Keith-Magee&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It’s not a bug, it’s a bias&lt;/strong&gt;&lt;br /&gt;
+Anna-Livia&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keeping it simple. Guidelines for building with Django REST framework.&lt;/strong&gt;&lt;br /&gt;
+Tom Christie&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Making smarter queries with advanced ORM resources&lt;/strong&gt;&lt;br /&gt;
+Mariana Bedran Lesche&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ORM: The Sequel&lt;/strong&gt;&lt;br /&gt;
+Katie McLaughlin&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;On The Look-Out For Your Data&lt;/strong&gt;&lt;br /&gt;
+Markus Holtermann&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Organizing Conferences For Learners: How we did it in Namibia&lt;/strong&gt;&lt;br /&gt;
+Jessica Upani&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Out of Sight, Out of Mind: Survival tricks and tools for remote developers&lt;/strong&gt;&lt;br /&gt;
+Alessio Bragadini&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Protecting Private Data with Django (because it’s the law)&lt;/strong&gt;&lt;br /&gt;
+Will Hardy&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Representing Hierarchies in Relational Databases&lt;/strong&gt;&lt;br /&gt;
+Jacob Rief&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Slow Food Digests Better - or how to maintain a 8.5 year old Python project without getting lost&lt;/strong&gt;&lt;br /&gt;
+Christopher Grebs&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Strategies to Edit Production Data&lt;/strong&gt;&lt;br /&gt;
+Julie Qiu&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Taking Channels Async&lt;/strong&gt;&lt;br /&gt;
+Andrew Godwin&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Using Forms as the core interface for data analysis sites&lt;/strong&gt;&lt;br /&gt;
+Chaim Kirby&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Want More Women in Tech? Start with Django Girls&lt;/strong&gt;&lt;br /&gt;
+Sara Heins&lt;/p&gt;
+
+&lt;h3 id=&quot;workshops&quot;&gt;Workshops&lt;/h3&gt;
+
+&lt;p&gt;Workshops will take place during the sprint days.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit the ground running with your Django REST Framework API&lt;/strong&gt;&lt;br /&gt;
+Emmanuelle Delescolle&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Test Driven Django (Again!)&lt;/strong&gt;&lt;br /&gt;
+Brenton Cleeland&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Behind the curtain - How Django handles a request&lt;/strong&gt;&lt;br /&gt;
+Daniel Hepper&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Writing pylint plugins for Django&lt;/strong&gt;&lt;br /&gt;
+Alexander Todorov&lt;/p&gt;</content><author><name></name></author><summary type="html">After our hard working review team has decided on talks, and the selected speakers have confirmed their participation, we’re excited to announce our speaker lineup!</summary></entry><entry><title type="html">Hotel information</title><link href="/news/hotels/" rel="alternate" type="text/html" title="Hotel information" /><published>2018-03-27T10:00:00+02:00</published><updated>2018-03-27T10:00:00+02:00</updated><id>/news/hotels</id><content type="html" xml:base="/news/hotels/">&lt;p&gt;DjangoCon Europe is coming fast – we hope you got your travel and accommodation booked already. If you did not,
+we secured some rooms at a small number of hotels to make sure they don’t sell out too soon.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.millestelle.de/en/home/&quot;&gt;Mille Stelle&lt;/a&gt; (two hotels)&lt;br /&gt;
+Single rooms at 69€/night, double rooms at 79€/night&lt;br /&gt;
+No breakfast&lt;br /&gt;
+Booking with reservation code “DjangoCon Europe 2018” at g2@millestelle.de and b54@millestelle.de&lt;br /&gt;
+Offer valid until 2018-04-01&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://hotel-heidelberg.info/&quot;&gt;Hotel Central&lt;/a&gt;&lt;br /&gt;
+Single room at 75€/night, double rooms at 95€/night&lt;br /&gt;
+Breakfast +7€&lt;br /&gt;
+Booking with reservation code “DjangoCon Europe” at info@hotel-heidelberg.info&lt;br /&gt;
+Offer valid until 2018-04-01&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.ibis.com/de/hotel-1447-ibis-heidelberg-hauptbahnhof/index.shtml#overview&quot;&gt;ibis Heidelberg Hbf&lt;/a&gt;&lt;br /&gt;
+Single room at 76€/night, double rooms at 97€/night&lt;br /&gt;
+Breakfast included&lt;br /&gt;
+Booking with reservation code “DjangoCon Europe 2018” at h1447@accor.com or +49 (0)62219130&lt;br /&gt;
+Offer valid until 2018-04-10&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sevendays-hotel.de/de/heidelberg&quot;&gt;seven days Hotel&lt;/a&gt;&lt;br /&gt;
+Single room at 89€/night, double rooms at 99€/night&lt;br /&gt;
+Breakfast +10€&lt;br /&gt;
+Booking with reservation code “DjangoCon Europe 2018” at heidelberg@sevendays-hotel.de or +49 (0)622175300&lt;br /&gt;
+Offer valid until 2018-04-20&lt;/p&gt;
+
+&lt;p&gt;There are obviously more Hotels in Heidelberg in all price ranges, so make sure to also check the usual hotel
+search engine – but don’t wait for much longer, the affordable hotels might run out of rooms.&lt;/p&gt;</content><author><name></name></author><summary type="html">DjangoCon Europe is coming fast – we hope you got your travel and accommodation booked already. If you did not, we secured some rooms at a small number of hotels to make sure they don’t sell out too soon.</summary></entry><entry><title type="html">Tickets, Sprints, and Child Care</title><link href="/news/tickets-sprints-and-child-care/" rel="alternate" type="text/html" title="Tickets, Sprints, and Child Care" /><published>2018-03-23T20:00:00+01:00</published><updated>2018-03-23T20:00:00+01:00</updated><id>/news/tickets-sprints-and-child-care</id><content type="html" xml:base="/news/tickets-sprints-and-child-care/">&lt;p&gt;Good news – many of you have already purchased their DjangoCon Europe ticket! In fact, we have nearly as many
+registration for the sprints (which are on the last two days of DjangoCon Europe) as the venue can sustain.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;If we reach that limit, we won’t be able to allow more sprint registrations, so if you don’t have your DjangoCon ticket
+yet, and you plan to attend the sprints, now would be a good time to get your ticket.&lt;/p&gt;
+
+&lt;p&gt;On a similar note, we have to start negotiations with our child care provider soon, so if you plan to bring your
+child(ren) to Heidelberg and want child care during the conference, please tell us no later than &lt;strong&gt;April 5th&lt;/strong&gt;. You can
+tell us either by filling in the child care request when buying a ticket, and we’ll contact you, or by contacting us
+directly via 2018@djangocon.eu&lt;/p&gt;
+
+&lt;p&gt;Last but not least, we were able to move up our timeline a bit and we’ll be able to present you our speaker lineup a
+week from now, so stay tuned!&lt;/p&gt;</content><author><name></name></author><summary type="html">Good news – many of you have already purchased their DjangoCon Europe ticket! In fact, we have nearly as many registration for the sprints (which are on the last two days of DjangoCon Europe) as the venue can sustain.</summary></entry><entry><title type="html">Howto Visa Applications</title><link href="/news/visa-letters/" rel="alternate" type="text/html" title="Howto Visa Applications" /><published>2018-02-28T20:00:00+01:00</published><updated>2018-02-28T20:00:00+01:00</updated><id>/news/visa-letters</id><content type="html" xml:base="/news/visa-letters/">&lt;p&gt;If you’re not travelling from inside the EU/Schengen area to Heidelberg, you may need a visa to enter Germany.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;First off, check if you actually need a visa to visit Germany. If you’re a citizen of one of the countries in the
+EU/Schengen area, you will only need valid government ID (e.g. a passport) to enter the country. (The same goes if your
+spouse or child is a citizen of one of those countries &lt;em&gt;and you’re travelling together&lt;/em&gt;.) If you’re not sure, check the
+website of the German embassy or consulate to your country.&lt;/p&gt;
+
+&lt;p&gt;If you do need a visa, check the website of the German embassy (usually something ending in “diplo.de”) to your country
+for a list of things you need to apply for a short-term visa to Germany. You’ll probably be looking for at filling in a
+visa application form in your country’s language, provide some additional information, and pay a fee of about EUR 60.&lt;/p&gt;
+
+&lt;p&gt;You will also probably need a letter of invitation to confirm that you’re indeed visiting DjangoCon Europe. To receive
+an invitation, please &lt;a href=&quot;mailto:2018@djangocon.eu&quot;&gt;send us an email&lt;/a&gt; including the following information:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Your full legal name, as stated on your official documents&lt;/li&gt;
+  &lt;li&gt;Your date of birth&lt;/li&gt;
+  &lt;li&gt;Your current address&lt;/li&gt;
+  &lt;li&gt;Your passport number&lt;/li&gt;
+  &lt;li&gt;The full address of the embassy or consulate you’re applying to&lt;/li&gt;
+  &lt;li&gt;Your current occupation (or anything else we should supply as context/reason for the invitation)&lt;/li&gt;
+  &lt;li&gt;Your order code/url for your DjangoCon ticket&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As visa applications can take some time to get processed, now is the best time to start yours!&lt;/p&gt;</content><author><name></name></author><summary type="html">If you’re not travelling from inside the EU/Schengen area to Heidelberg, you may need a visa to enter Germany.</summary></entry><entry><title type="html">CfP Deadline Extension!</title><link href="/news/cfp-deadline-extension/" rel="alternate" type="text/html" title="CfP Deadline Extension!" /><published>2018-01-28T10:00:00+01:00</published><updated>2018-01-28T10:00:00+01:00</updated><id>/news/cfp-deadline-extension</id><content type="html" xml:base="/news/cfp-deadline-extension/">&lt;p&gt;We’re extending our CfP and opportunity grant application deadlines in support of the global diversity CfP day!&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;On February 3rd, &lt;a href=&quot;https://www.globaldiversitycfpday.com/&quot;&gt;global diversity CfP day&lt;/a&gt; takes place. It is a global
+accumulation of workshops to help first time speakers submit proposals to all kinds of conferences and events.&lt;/p&gt;
+
+&lt;p&gt;DjangoCon Europe is firmly committed to a diverse community, so we couldn’t let this day pass just outside our original
+deadline of February 1st. We’ve decided to extend our deadlines (both for the opportunity grants and the CfP) until
+&lt;strong&gt;February 6th&lt;/strong&gt;, 23:59 CET. We look forward to your submissions!&lt;/p&gt;
+
+&lt;div class=&quot;information-buttons&quot;&gt;
+  &lt;a class=&quot;information&quot; href=&quot;https://2018.djangocontent.eu/hd/cfp&quot;&gt;
+    Submit a talk!
+  &lt;/a&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">We’re extending our CfP and opportunity grant application deadlines in support of the global diversity CfP day!</summary></entry></feed>

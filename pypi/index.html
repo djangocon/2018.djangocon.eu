@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8">
+	<title>DjangoCon Europe 2018</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="description" content="DjangoConEurope is hosted in Heidelberg May 23-27th, 2018
+">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="canonical" href="/pypi/">
+
+    <link rel="stylesheet" href="/assets/fonts/stylesheet.css">
+    <link rel="stylesheet" href="/css/main.css">
+
+</head>
+<body>
+<div class="logo">
+    <a href='/'>
+        <img src="/assets/djangocon_logo.svg" alt="The DjangoCon Europe 2018 logo" class="logo">
+    </a>
+    May 23-27, 2018 &middot; Heidelberg, Germany
+</div>
+<header>
+    <div class="wrapper">
+        <nav>
+            <ul class="site-navigation">
+                
+                
+                    
+                    
+                    <li class="menu-item  ">
+                        <a href="/news"
+                           >
+                            News
+
+                        </a>
+                        
+                    </li>
+                
+                    
+                    
+                    <li class="menu-item   has-dropdown ">
+                        <a href="/info"
+                           >
+                            Information
+
+                        </a>
+                        
+                        <ul class="dropdown">
+                        
+                            <li class="dropdown-menu-item }}">
+                                <a href="/info/travelling"
+                                   >
+                                    Getting here
+                                </a>
+                            </li>
+                            
+                            <li class="dropdown-menu-item }}">
+                                <a href="/info/heidelberg"
+                                   >
+                                    Getting around
+                                </a>
+                            </li>
+                            
+                            <li class="dropdown-menu-item }}">
+                                <a href="/info/accomodation"
+                                   >
+                                    Accomodation
+                                </a>
+                            </li>
+                            
+                            <li class="dropdown-menu-item }}">
+                                <a href="/info/venues"
+                                   >
+                                    Venues
+                                </a>
+                            </li>
+                            
+                            <li class="dropdown-menu-item }}">
+                                <a href="/access"
+                                   >
+                                    Accessibility
+                                </a>
+                            </li>
+                            
+                            <li class="dropdown-menu-item }}">
+                                <a href="/timeline"
+                                   >
+                                    Timeline
+                                </a>
+                            </li>
+                            
+                            <li class="dropdown-menu-item }}">
+                                <a href="/grants"
+                                   >
+                                    Opportunity Grants
+                                </a>
+                            </li>
+                            
+                            </ul>
+                        
+                    </li>
+                
+                    
+                    
+                    <li class="menu-item  ">
+                        <a href="https://2018.djangocontent.eu/hd/schedule/"
+                           target="_blank">
+                            Schedule
+
+                        </a>
+                        
+                    </li>
+                
+                    
+                    
+                    <li class="menu-item  ">
+                        <a href="/conduct"
+                           >
+                            Code of Conduct
+
+                        </a>
+                        
+                    </li>
+                
+                    
+                    
+                    <li class="menu-item  ">
+                        <a href="/team"
+                           >
+                            Team
+
+                        </a>
+                        
+                    </li>
+                
+                    
+                    
+                    <li class="menu-item  ">
+                        <a href="https://2018.djangocon.eu/jobs/"
+                           target="_blank">
+                            Jobs
+
+                        </a>
+                        
+                    </li>
+                
+                    
+                    
+                    <li class="menu-item   has-dropdown ">
+                        <a href="/sponsoring/sponsors"
+                           >
+                            Sponsors
+
+                        </a>
+                        
+                        <ul class="dropdown">
+                        
+                            <li class="dropdown-menu-item }}">
+                                <a href="/sponsoring"
+                                   >
+                                    Sponsor us
+                                </a>
+                            </li>
+                            
+                            <li class="dropdown-menu-item }}">
+                                <a href="/sponsoring/sponsors"
+                                   >
+                                    Our sponsors
+                                </a>
+                            </li>
+                            
+                            </ul>
+                        
+                    </li>
+                
+                    
+                    
+                    <li class="menu-item  ">
+                        <a href="/contact"
+                           >
+                            Contact
+
+                        </a>
+                        
+                    </li>
+                
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<div class="wrapper">
+    <div class="container">
+        <h2 id="pypi-cache-at-sprints">PyPI cache at sprints</h2>
+
+<p>Sprint networks are notoriously bad, even though sprints usually have less attendees than the preceding talk days. This
+is less due to the fact that sprints venues have bad WiFi, and more due to the fact that 100 developers calling “pip
+install django” at roughly the same time is an unusual load on most networks in a typical sprints location.</p>
+
+<p>We provide an on-site PyPI cache – it’s a <a href="https://devpi.net/docs/devpi/devpi/latest/+doc/index.html">devpi</a> instance on
+the local network that caches PyPI packages. If at all possible, we’d like to ask you to use this mirror. There are
+several ways to do that:</p>
+
+<h3 id="command-line-flag">Command line flag</h3>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip install --index https://pypi.rose-conferences.org/root/pypi/+simple/ django
+</code></pre></div></div>
+
+<p>This will use our PyPI cache to install django. Great for one-off usage. (Works for searching, too, btw!)</p>
+
+<h3 id="environment-variable">Environment variable</h3>
+
+<pre><code class="language-`">export PIP_INDEX_URL=https://pypi.rose-conferences.org/root/pypi/+simple/
+</code></pre>
+
+<p>Run this in your shell, then run other pip commands. This will activate the use of the PyPI cache for only this terminal
+session, so it’s great if you want to execute multiple pip commands in sequence or over the course of the day – but
+you’ll need to re-enter the command if you open a new terminal window.</p>
+
+<h3 id="troubleshooting">Troubleshooting</h3>
+
+<p>If you have trouble using pip with these instructions, ask Tobias to help, or any person who is wearing a firefighter
+hat, or just your neighbour if it seems to work for them.</p>
+
+
+    </div>
+</div>
+<footer>
+    <div class="wrapper">
+        DjangoCon Europe 2018 in Heidelberg is organized with love by ROSE e.V. <br>
+        <a href="/imprint/">Imprint</a> &middot;
+        <a href="https://twitter.com/DjangoConEurope" target="_blank">Twitter</a> &middot;
+        <a href="/feed.xml">RSS Feed</a>
+    </div>
+</footer>
+	<script src="/twemoji2/twemoji.min.js"></script>
+	<script src="/js/emoji.js"></script>
+</body>
+</html>
